@@ -1,0 +1,14 @@
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.exe.config
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.pdb
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.csproj.AssemblyReference.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.csproj.CoreCompileInputs.cache
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.exe
+G:\项目\学习\录视频\Chapter1\ConsoleApp1\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.pdb
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.exe.config
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.exe
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\bin\Debug\net  调用 webService（服务引用和动态代理）.pdb
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.csproj.AssemblyReference.cache
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.csproj.CoreCompileInputs.cache
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.exe
+G:\项目\学习\webserivce\WebserviceDemo\net  调用 webService（服务引用和动态代理）\obj\Debug\net  调用 webService（服务引用和动态代理）.pdb
